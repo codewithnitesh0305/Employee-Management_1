@@ -4,9 +4,12 @@ Employee Management System is a web-based application designed to manage employe
 Technologies Used:
 
 Spring MVC: For building the web application framework and handling web requests.
+
 Spring JDBC: To interact with the database using JDBC templates, simplifying database operations.
 Java: Core programming language for backend logic implementation.
+
 Bootstrap: Frontend framework for user interface and interaction.
+
 MySQL: Database management system to store employee data.
 
 Project Structure:
