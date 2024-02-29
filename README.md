@@ -10,15 +10,10 @@ Bootstrap: Frontend framework for user interface and interaction.
 MySQL: Database management system to store employee data.
 
 Project Structure:
-
 Controller Layer: Handles incoming HTTP requests, processes them, and returns an appropriate response. Responsible for mapping URLs to specific functionalities.
-
 Service Layer: Contains business logic, performs validation, and coordinates data retrieval and manipulation.
-
 DAO (Data Access Object) Layer: Interacts with the database to perform CRUD operations. Utilizes Spring JDBC templates for database access.
-
 Model: Represents the data entities used within the application, such as Employee.
-
 Views: Contains HTML/JSP files responsible for rendering the user interface.
 
 Home Page:
